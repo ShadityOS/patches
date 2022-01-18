@@ -1,0 +1,4 @@
+Version 1.0.1 patch notes:
+- Released 18th January 2022
+- Fixed broken install-exagear.sh file
+- Updated Packages
